@@ -33,7 +33,7 @@ function Navbar(props) {
                                 </NavLink>
                                 <ul className="dropdown-menu">
                                     <li><NavLink className="dropdown-item" to='/firstproject'>First Project</NavLink></li>
-                                    <li><a className="dropdown-item" href="#">Second Project</a></li>
+                                    <li><a className="dropdown-item" href="#">Color Project</a></li>
                                     <li><a className="dropdown-item" href="#">Third Project</a></li>
                                 </ul>
                             </li>

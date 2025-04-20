@@ -17,7 +17,7 @@ function About(props) {
                     <div className="accordion-item">
                         <h2 className="accordion-header">
                             <button className="accordion-button" style={myStyle} type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" fdprocessedid="bz04v">
-                                Analyze Your Text
+                                Color Change
                             </button>
                         </h2>
                         <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
